@@ -78,15 +78,63 @@ It is designed to help users connect with spirituality anytime, anywhere — wit
 **Deployment:**  
 - Vercel (live hosting)
 - 
-### 🔹 FarmIQ
-- ML-powered farming assistant designed to make AI tools accessible to farmers.  
-- Built with **FastAPI**, **PyTorch**, **React Native**, and vanilla **JavaScript**.  
+# 🌾 FarmIQ & 🌍 SafeScape
 
-### 🔹 SafeScape  
-- Offline-first app ensuring safe and shortest routes for women, night-workers, and travelers.  
-- Built with **PWA**, **Flutter**, **JavaScript**, and **React Native**.  
+A showcase of two impactful projects built with a vision to empower communities:  
+- **FarmIQ (formerly KisaanSaathi):** A smart agriculture assistant for farmers.  
+- **SafeScape:** A global safety & accessibility reporting platform.  
 
 ---
+
+## 🚜 FarmIQ – Smart Agriculture Advisory System
+
+FarmIQ is a farmer-centric platform designed to provide **personalized agricultural recommendations**, **crop suggestions**, **disease detection**, and **government scheme awareness**. It empowers farmers with actionable insights using AI/ML.
+
+### 🔑 Features
+- 🌱 **Crop Recommendation:** Suggests suitable crops based on soil, weather, and environmental data.  
+- 📊 **Soil Analysis:** Visual soil composition charts with crop recommendations.  
+- 🌾 **Yield Prediction:** Estimates crop productivity.  
+- 💧 **Fertilizer Calculation:** Helps optimize fertilizer usage.  
+- 🦠 **Disease Detection:** Identifies plant diseases using an AI model.  
+- 📢 **Community Forum:** Farmers can share experiences, issues, and solutions.  
+- 🏛️ **Government Schemes:** Curated information on relevant subsidies and support programs.  
+- 🌐 **Multi-language Support:** Toggle between English and Hindi for better accessibility.  
+
+### 🛠️ Tech Stack
+- **Frontend:** React.js, Tailwind CSS  
+- **Backend:** FastAPI (Python)  
+- **Database:** SQLite / JSON-based storage  
+- **Machine Learning:** Scikit-learn, TensorFlow/Keras  
+- **Hosting:** Vercel (Frontend), Render/Heroku (Backend)  
+
+---
+
+## 🌐 Live Demo  
+👉 [FarmIQ – Smart Agro Advisory System](https://kisaansaathi-c5kw.onrender.com/)
+
+## 🌍 SafeScape – Community Safety & Accessibility Map
+
+SafeScape is an **offline-first safety navigation and reporting platform** that helps people — especially women, travelers, and people with disabilities — identify **unsafe or inaccessible areas** using real-time community reports and open data.
+
+### 🔑 Features
+- 🗺️ **Interactive Map:** Reports unsafe, dark, or inaccessible areas.  
+- 🚨 **Real-time Alerts:** Shows community-reported dangers and hazards.  
+- 👥 **Community Reporting:** Users can log incidents or unsafe zones.  
+- 📡 **Data Integration:** Fetches live crime, hazard, weather, and traffic data (via APIs).  
+- 🌐 **Accessibility Filters:** Highlights areas unsafe for disabled persons.  
+- 📲 **Offline-first Support:** Works even in low-connectivity regions.  
+
+### 🛠️ Tech Stack
+- **Frontend:** React.js, Tailwind CSS, Leaflet.js (for maps)  
+- **Backend:** Node.js / Express (or FastAPI alternative)  
+- **Database:** MongoDB / Firebase (for reports)  
+- **APIs:** OpenStreetMap, Govt. Open Crime Data, Weather APIs  
+- **Hosting:** Vercel (Frontend), Render/Heroku (Backend)  
+
+---
+## 🌐 Live Demo  
+👉 [SafeScape – Global Safety & Accessibility Platform](https://safe-scape-dun.vercel.app/)
+
 
 ## 🛠 Technical Stack  
 
@@ -142,5 +190,6 @@ Collaboration, innovation, and clarity guide my work ethos.
 - **LinkedIn**: [Aryan Tripathi](https://www.linkedin.com/in/aryan-tripathi)  
 
 ---
+
 
 
