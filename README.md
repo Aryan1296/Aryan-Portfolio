@@ -143,10 +143,4 @@ Collaboration, innovation, and clarity guide my work ethos.
 
 ---
 
-## ⚡ Getting Started  
-
-### Clone the repository  
-```bash
-git clone <repository-url>
-cd <repository-directory>
 
