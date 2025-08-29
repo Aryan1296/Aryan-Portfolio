@@ -39,11 +39,46 @@ Live Demo 👉 [Aryan's Portfolio](https://aryan-portfolio-navy.vercel.app/)
 
 ## 🚀 Projects Highlight  
 
-### 🔹 SMOOD  
-- Emotion-detection app built using **Python**, **FastAPI**, and **Flutter**.  
-- Integrated **Firebase** for real-time storage and user tracking.  
+### 🔹 BhaktiVerse
+# 🙏 BhaktiVerse – Devotional Portal
 
-### 🔹 KisaanSaathi  
+BhaktiVerse is a modern **spiritual and devotional web platform** that brings together hymns, mantras, bhajans, and sacred verses in a clean and accessible way.  
+It is designed to help users connect with spirituality anytime, anywhere — with a simple, elegant, and mobile-friendly interface.
+
+---
+
+## 🌐 Live Demo  
+👉 [BhaktiVerse – Devotional Portal](https://bhakti-verse-devotional-portal.vercel.app/)
+
+---
+
+## ✨ Features  
+
+- 📜 **Daily Verses & Shlokas** – Explore handpicked spiritual verses.  
+- 🎶 **Devotional Songs/Bhajans** – Easy access to devotional music.  
+- 🕉️ **Category-wise Content** – Filter by gods, festivals, or themes.  
+- 📱 **Responsive Design** – Works seamlessly across devices.  
+- 🌙 **Dark/Light Mode** – Eye-friendly toggle for better reading.  
+- 🔍 **Search Functionality** – Quickly find mantras, hymns, or content.  
+- 📖 **Multi-Language Support** *(if enabled)* – Access content in Hindi/English.  
+
+---
+
+## 🚀 Tech Stack  
+
+**Frontend:**  
+- React.js (with Vite for fast development)  
+- Tailwind CSS for styling  
+- React Router for navigation  
+
+**Backend / APIs (optional if integrated):**  
+- Node.js / Express  
+- Firebase or REST APIs for content management  
+
+**Deployment:**  
+- Vercel (live hosting)
+- 
+### 🔹 FarmIQ
 - ML-powered farming assistant designed to make AI tools accessible to farmers.  
 - Built with **FastAPI**, **PyTorch**, **React Native**, and vanilla **JavaScript**.  
 
@@ -114,3 +149,4 @@ Collaboration, innovation, and clarity guide my work ethos.
 ```bash
 git clone <repository-url>
 cd <repository-directory>
+
